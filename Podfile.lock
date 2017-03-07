@@ -1,0 +1,15 @@
+PODS:
+  - SnapKit (3.2.0)
+  - SwiftDate (4.0.13)
+
+DEPENDENCIES:
+  - SnapKit
+  - SwiftDate
+
+SPEC CHECKSUMS:
+  SnapKit: 1ca44df72cfa543218d177cb8aab029d10d86ea7
+  SwiftDate: 8ec416bb1b5129d1f35e8efaed720421f41d42df
+
+PODFILE CHECKSUM: bd93dd1045c0fc8c5e2e10688bf49b5d377f708d
+
+COCOAPODS: 1.2.0
